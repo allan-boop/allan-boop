@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bonjour, moi c’est [Ton Prénom] !</h1>
+<h1 align="center">👋 Bonjour, moi c’est Allan !</h1>
 <p align="center">
   Développeur passionné formé à l'école 42 · Amoureux du code simple, utile et bien structuré
 </p>
