@@ -26,7 +26,7 @@ J’aime concevoir des applications robustes et découvrir de nouvelles technolo
 | 🐳 **Inception** | Déploiement d’un système complet avec Docker |
 | 🕹️ **ft_transcendence** | Application web fullstack avec JavaScript, PostgreSQL, WebSockets, et Tailwind CSS |
 | 🔍 **CPP Modules** | Apprentissage de la POO, templates et bonnes pratiques C++ |
-| 🔐 **Webserv** | Serveur HTTP en C++ conforme aux standards RFC |
+| 🔐 **IRC** | Serveur IRC en C++ |
 
 ---
 
